@@ -18,3 +18,5 @@
 Estudo atualmente programação pelo Geração Caldeira, do Instituto Caldeira e pela Escola Técnica Liberato Salzano Vieira da Cunha. Estou aprofundando o Back-end com Java e Spring Boot, que é a linguagem principal dos meus cursos atuais. Também participo de um programa de estudos em AWS para tirar certificados de Cloud Practitioner e Architect.
 
 Busco oportunidade profissional que permita o meu crescimento intelectual, profissional e técnico com programação e AWS Cloud. Estou aberto para networking, novas amizades e tudo que envolva conhecimento na área de TI. :books: :books:
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-ssilveira&show_icons=true&theme=tokyonight">  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-ssilveira&layout=compact&theme=tokyonight">
