@@ -5,7 +5,7 @@
 
 ### Sou um estudante de programação, atualmente estudando:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="60"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height="60"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="60"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60" height="60"/>
 
 ### Meu Linkedin:
 
@@ -13,4 +13,8 @@
 
 :rocket: :rocket:
 
-#### :books: :books: Tenho formação em Eletrotécnica, mas me encantei pela área da TI e estou totalmente focado nos estudos, a procura de oportunidades de estágio. Estudo no momento através de três bolsas de estudo, uma delas pela Oracle Next Education em parceria com a Alura em uma trilha focada no back-end, a outra pelo Instituto Caldeira programa Nova Geração em parceria com Alura e diversas outras empresas, inclusive é pelo Nova Geração que iniciei os estudos em AWS, e a terceira bolsa é pela Fundação Escola Técnica Liberato Salzano Vieira da Cunha fazendo o _Curso Técnico de Informática para Internet: desenvolvimento de software_. Me sinto animado para seguir nessa jornada e começar a desenvolver e trazer mais projetos para publicação. :books: :books:
+#### :books: :books: Sou formado em eletrotécnica e ex-projetista fotovoltaico. Depois de um bom tempo atuando na área da elétrica, comecei a me interessar por TI, e a cada dia que passa tenho mais vontade de estudar esse universo de possibilidades que a tecnologia tem a oferecer.
+
+Estudo atualmente programação pelo Geração Caldeira, do Instituto Caldeira e pela Escola Técnica Liberato Salzano Vieira da Cunha. Estou aprofundando o Back-end com Java e Spring Boot, que é a linguagem principal dos meus cursos atuais. Também participo de um programa de estudos em AWS para tirar certificados de Cloud Practitioner e Architect.
+
+Busco oportunidade profissional que permita o meu crescimento intelectual, profissional e técnico com programação e AWS Cloud. Estou aberto para networking, novas amizades e tudo que envolva conhecimento na área de TI. :books: :books:
