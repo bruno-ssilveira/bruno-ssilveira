@@ -5,7 +5,7 @@
 
 ### Sou programador back-end e certificado em AWS Cloud. Meu foco de estudo atual:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height="60"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="60"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height="60"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="60"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60" height="60"/>
 
 ### Meu Linkedin:
 
@@ -13,10 +13,14 @@
 
 :rocket: :rocket:
 
-:books: :books: Sou formado em eletrotécnica e ex-projetista fotovoltaico. Depois de um bom tempo atuando na área da elétrica, comecei a me interessar por TI, e a cada dia que passa tenho mais vontade de estudar esse universo de possibilidades que a tecnologia tem a oferecer.
+:books: :books: Sou formado em Eletrotécnica e ex-projetista fotovoltaico, agora em migração de carreira. Estou cursando Informática para Internet: Desenvolvimento de Software na Fundação Escola Técnica Liberato Salzano Vieira da Cunha. 
 
-Estudo atualmente programação pelo Geração Caldeira, do Instituto Caldeira e pela Escola Técnica Liberato Salzano Vieira da Cunha. Estou aprofundando o Back-end com Java e Spring Boot, que é a linguagem principal dos meus cursos atuais. Também participo de um programa de estudos em AWS para tirar certificados de Cloud Practitioner e Architect.
+Participei do programa ONE da Oracle, onde pude estudar além de programação, também sobre Desenvolvimento Pessoal e Business Agility.
 
-Busco oportunidade profissional que permita o meu crescimento intelectual, profissional e técnico com programação e AWS Cloud. Estou aberto para networking, novas amizades e tudo que envolva conhecimento na área de TI. :books: :books:
+Através do Nova Geração iniciei em paralelo uma jornada com AWS Cloud, onde já tirei certificação em Cloud Practitioner e sigo estudos para Solutions Architect. Após as etapas de seleção do Nova Geração, me tornei Geração Caldeira pela trilha de programação e me formei em dez/23.
+
+Estudo inglês de forma autodidata e minha compreensão é avançada, meu próximo desafio é aperfeiçoar a conversação. Estou em busca de uma oportunidade na área de TI onde possa crescer como profissional e aprender muito além dos meus estudos diários.
+
+bruno.englishprog@gmail.com :books: :books:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-ssilveira&show_icons=true&theme=tokyonight">  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-ssilveira&layout=compact&theme=tokyonight">
