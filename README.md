@@ -13,13 +13,15 @@
 
 :rocket: :rocket:
 
-:books: :books: Sou formado em Eletrotécnica e ex-projetista fotovoltaico, agora em migração de carreira. Estou cursando Informática para Internet: Desenvolvimento de Software na Fundação Escola Técnica Liberato Salzano Vieira da Cunha. 
+:books: :books: Sou formado em Eletrotécnica e ex-projetista fotovoltaico, agora em migração de carreira. Estou cursando Engenharia de Software na Estácio.
 
-Participei do programa ONE da Oracle, onde pude estudar além de programação, também sobre Desenvolvimento Pessoal e Business Agility.
+Participei do programa Oracle Next Education, onde pude estudar além de programação, também sobre Desenvolvimento Pessoal e Business Agility.
 
-Através do Nova Geração iniciei em paralelo uma jornada com AWS Cloud, onde já tirei certificação em Cloud Practitioner e sigo estudos para Solutions Architect. Após as etapas de seleção do Nova Geração, me tornei Geração Caldeira pela trilha de programação e me formei em dez/23.
+Por meio do programa Nova Geração, promovido pelo Instituto Caldeira, iniciei uma jornada em programação, após as difíceis etapas de seleção, tornei-me Geração Caldeira e concluí a formatura em dezembro de 2023. Simultaneamente pelo Nova Geração, embarquei em uma jornada na AWS Cloud, obtendo a certificação em Cloud Practitioner e atualmente estudando para a certificação de Solutions Architect.
 
-Estudo inglês de forma autodidata e minha compreensão é avançada, meu próximo desafio é aperfeiçoar a conversação. Estou em busca de uma oportunidade na área de TI onde possa crescer como profissional e aprender muito além dos meus estudos diários.
+Estudo inglês de forma autodidata e minha compreensão é avançada, meu próximo desafio é aperfeiçoar a conversação.
+
+Sou apaixonado por tecnologia e em aprender novas ferramentas, estou em busca de uma oportunidade na área de TI onde possa crescer como profissional e aprender muito além dos meus estudos diários.
 
 bruno.englishprog@gmail.com :books: :books:
 
