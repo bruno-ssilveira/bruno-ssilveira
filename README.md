@@ -3,7 +3,7 @@ Bem-vindo(a) ao meu perfil!<br><br>
 Sou Desenvolvedor FullStack e atualmente trabalho na Latromi Technology, utilizando tecnologias como SQL Server, PSQL, PL/pgSQL, JavaScript, HTML, CSS e C#.
 
 <br>O que estou estudando:<br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60"/>
+<div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="60" height="60"/> </div>
 
 Aqui estão os tópicos que tenho explorado:
 
@@ -13,7 +13,7 @@ Desenvolvimento mobile específico: Diferenças entre Android/iOS, design respon
 Estou me preparando para construir aplicativos cada vez mais robustos e responsivos!<br>
 
 Certificações e Formação:<br>
-AWS Cloud Practitioner – Estudando para a certificação de Solutions Architect.<br>
+AWS Cloud Practitioner<br>
 Engenharia de Software – Estácio.<br><br>
 Programas de formação:<br>
 Oracle Next Education (ONE): Desenvolvimento pessoal, Business Agility e programação.<br>
