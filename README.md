@@ -14,7 +14,7 @@ Estou me preparando para construir aplicativos cada vez mais robustos e responsi
 
 Certificações e Formação:<br>
 AWS Cloud Practitioner<br>
-Engenharia de Software – Estácio.<br><br>
+Análise e Desenvolvimento de Software – UNINTER.<br><br>
 Programas de formação:<br>
 Oracle Next Education (ONE): Desenvolvimento pessoal, Business Agility e programação.<br>
 Nova Geração – Instituto Caldeira: Desenvolvimento em programação e AWS Cloud.<br><br>
