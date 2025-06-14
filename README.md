@@ -9,13 +9,13 @@ Desenvolvedor atualmente trabalhando na Latromi Technology, utilizando tecnologi
 
 ## Um pouco sobre mim:
 
-Desenvolvedor Full-Stack com foco em JavaScript, React, Node.js e bancos de dados como PostgreSQL e Oracle. Atuo no desenvolvimento de aplicações web utilizando soluções low-code e high-code, com experiência em CRUDs dinâmicos, automações com PL/SQL e dashboards interativos em tempo real.
+Desenvolvedor Full-Stack com foco em JavaScript, React, Node.js e bancos de dados como PostgreSQL, Oracle e MongoDB. Atuo no desenvolvimento de aplicações web com soluções low-code e high-code, tendo experiência em CRUDs dinâmicos, automações com PL/SQL e dashboards interativos em tempo real.
 
-Tenho uma base sólida em lógica, HTML, CSS, Git, GitHub, PostgreSQL, bancos de dados relacionais e AWS (certificado Cloud Practitioner). Estou em constante evolução no ecossistema JavaScript, aprofundando meus conhecimentos em React e Node.js, com planos de expandir para React Native, TypeScript, bibliotecas Web3 e aplicações com IA.
+Tenho uma base sólida em lógica de programação, HTML, CSS, Git, GitHub, bancos de dados relacionais e NoSQL, além de certificação AWS Cloud Practitioner. Estou em constante evolução no ecossistema JavaScript, aprofundando meus conhecimentos em React e Node.js, com planos de expandir para React Native, TypeScript, bibliotecas Web3 e aplicações com IA.
 
-Acredito na tecnologia como ferramenta de transformação e tenho interesse especial por projetos que promovam autonomia, transparência, educação e impacto social e ambiental real.
+Acredito na tecnologia como ferramenta de transformação e me interesso especialmente por projetos que promovam autonomia, transparência, educação e impacto social ou ambiental real.
 
-Inglês intermediário (B1+), em constante evolução.
+Inglês intermediário (B1+), em constante progresso.
 
 ## Certificações e Formação:
 
