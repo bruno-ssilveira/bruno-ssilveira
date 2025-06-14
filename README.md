@@ -1,30 +1,46 @@
 Olá, eu sou o Bruno! :wave:
-Bem-vindo(a) ao meu perfil!<br><br>
-Sou Desenvolvedor FullStack e atualmente trabalho na Latromi Technology, utilizando tecnologias como SQL Server, PSQL, PL/pgSQL, JavaScript, HTML, CSS e C#.
+Bem-vindo(a) ao meu perfil!
 
-<br>O que estou estudando:<br><br>
-<div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="60" height="60"/> </div>
+Desenvolvedor atualmente trabalhando na Latromi Technology, utilizando tecnologias como SQL Server, postgreSQL, Oracle, PL/pgSQL, JavaScript, HTML, CSS e C#.
 
-Aqui estão os tópicos que tenho explorado:
+## Principais Tecnologias:
 
-React Native e componentes básicos: Aprendendo sobre View, Text, FlatList, estilização com Flexbox e navegação com React Navigation.<br>
-Fundamentos de JavaScript e React: Uso de hooks como useState e useEffect, e manipulação de arrays/objetos (map, filter).<br>
-Desenvolvimento mobile específico: Diferenças entre Android/iOS, design responsivo e uso de APIs nativas.<br>
-Estou me preparando para construir aplicativos cada vez mais robustos e responsivos!<br>
+<div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="60" height="60"/> </div>
 
-Certificações e Formação:<br>
-AWS Cloud Practitioner<br>
-Análise e Desenvolvimento de Software – UNINTER.<br><br>
-Programas de formação:<br>
-Oracle Next Education (ONE): Desenvolvimento pessoal, Business Agility e programação.<br>
-Nova Geração – Instituto Caldeira: Desenvolvimento em programação e AWS Cloud.<br><br>
-Idiomas:<br>
-Inglês avançado em leitura e escrita. Atualmente, estou aprimorando minha conversação.<br><br>
-Vamos nos conectar?<br><br>
+## Um pouco sobre mim:
+
+Desenvolvedor Full-Stack com foco em JavaScript, React, Node.js e bancos de dados como PostgreSQL e Oracle. Atuo no desenvolvimento de aplicações web utilizando soluções low-code e high-code, com experiência em CRUDs dinâmicos, automações com PL/SQL e dashboards interativos em tempo real.
+
+Tenho uma base sólida em lógica, HTML, CSS, Git, GitHub, PostgreSQL, bancos de dados relacionais e AWS (certificado Cloud Practitioner). Estou em constante evolução no ecossistema JavaScript, aprofundando meus conhecimentos em React e Node.js, com planos de expandir para React Native, TypeScript, bibliotecas Web3 e aplicações com IA.
+
+Acredito na tecnologia como ferramenta de transformação e tenho interesse especial por projetos que promovam autonomia, transparência, educação e impacto social e ambiental real.
+
+Inglês intermediário (B1+), em constante evolução.
+
+## Certificações e Formação:
+
+AWS Cloud Practitioner
+
+Análise e Desenvolvimento de Software – UNINTER.
+
+## Programas de formação:
+Oracle Next Education (ONE): Desenvolvimento pessoal, Business Agility e programação.
+
+Nova Geração – Instituto Caldeira: Desenvolvimento em programação e AWS Cloud.
+
+## Idiomas:
+English: B1+ (Upper-intermediate).
+
+Português: Nativo.
+
+### Vamos nos conectar?
+
 <a href="https://www.linkedin.com/in/bruno-santos-silveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 📫 Email: bruno.englishprog@gmail.com
 
-Estatísticas:<br><br>
+Estatísticas:
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-ssilveira&show_icons=true&theme=tokyonight"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-ssilveira&layout=compact&theme=tokyonight">
-<br><br>Vamos crescer juntos na tecnologia! 🚀
+
+Vamos crescer juntos na tecnologia! 🚀
