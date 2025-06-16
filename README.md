@@ -26,7 +26,7 @@ Análise e Desenvolvimento de Software – UNINTER.
 ## Programas de formação:
 Oracle Next Education (ONE): Desenvolvimento pessoal, Business Agility e programação.
 
-Nova Geração – Instituto Caldeira: Desenvolvimento em programação e AWS Cloud.
+Geração Caldeira – Instituto Caldeira: Desenvolvimento em programação e AWS Cloud.
 
 ## Idiomas:
 English: B1+ (Upper-intermediate).
