@@ -3,13 +3,16 @@ Bem-vindo(a) ao meu perfil!
 
 Desenvolvedor atualmente trabalhando na Latromi Technology, utilizando tecnologias como JavaScript, HTML, CSS, C#, postgreSQL e Oracle.
 
-## Principais Tecnologias:
+## 💻 Principais Tecnologias
 
-<div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="60"/> </div>
+*   **Backend & Nuvem:** C# (.NET), Python, AWS 
+*   **Banco de Dados (Avançado):** PostgreSQL (PL/pgSQL), Oracle (PL/SQL), SQL Server
+*   **Frontend:** JavaScript, HTML5, CSS3
+*   **Ferramentas:** Git, GitHub
 
 ## Um pouco sobre mim:
 
-Desenvolvedor Full Stack com diferencial técnico em Banco de Dados, atuando com nível de complexidade elevado (PL/pgSQL, PL/SQL). Atualmente, concentro meu desenvolvimento no ecossistema .NET (C#), criando backends e integrando-os a interfaces funcionais com JavaScript, HTML e CSS.
+Engenheiro de Software com experiência prática na criação de backends no ecossistema .NET (C#) e na integração de APIs. Meu principal diferencial técnico é a modelagem e manipulação avançada de bancos de dados, atuando com alto nível de complexidade em PL/pgSQL, Oracle e SQL Server. Para complementar minha visão técnica e de infraestrutura, estou expandindo minha stack estudando o desenvolvimento de pipelines de processamento de dados e soluções em nuvem utilizando Python e AWS.
 
 Inglês intermediário (B1+), em constante progresso.
 
